@@ -82,24 +82,24 @@ Wire Wire Line
 $Comp
 L Connector:Conn_01x02_Female J1
 U 1 1 5BA2EBD2
-P 2650 5950
-F 0 "J1" V 2750 5850 50  0000 L CNN
-F 1 "Motor1" V 2850 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 2650 5950 50  0001 C CNN
-F 3 "~" H 2650 5950 50  0001 C CNN
-	1    2650 5950
-	0    1    1    0   
+P 2550 5950
+F 0 "J1" V 2650 5850 50  0000 L CNN
+F 1 "Motor1" V 2750 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 2550 5950 50  0001 C CNN
+F 3 "~" H 2550 5950 50  0001 C CNN
+	1    2550 5950
+	0    -1   1    0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J2
 U 1 1 5BA33515
-P 2050 5950
-F 0 "J2" V 2150 5850 50  0000 L CNN
-F 1 "Motor2" V 2250 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 2050 5950 50  0001 C CNN
-F 3 "~" H 2050 5950 50  0001 C CNN
-	1    2050 5950
-	0    1    1    0   
+P 1950 5950
+F 0 "J2" V 2050 5850 50  0000 L CNN
+F 1 "Motor2" V 2150 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 1950 5950 50  0001 C CNN
+F 3 "~" H 1950 5950 50  0001 C CNN
+	1    1950 5950
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	1550 4850 1550 4950
@@ -197,24 +197,24 @@ DEnable
 $Comp
 L Connector:Conn_01x02_Female J3
 U 1 1 5BA36FFB
-P 4900 5950
-F 0 "J3" V 5000 5850 50  0000 L CNN
-F 1 "Motor3" V 5100 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 4900 5950 50  0001 C CNN
-F 3 "~" H 4900 5950 50  0001 C CNN
-	1    4900 5950
-	0    1    1    0   
+P 4800 5950
+F 0 "J3" V 4900 5850 50  0000 L CNN
+F 1 "Motor3" V 5000 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 4800 5950 50  0001 C CNN
+F 3 "~" H 4800 5950 50  0001 C CNN
+	1    4800 5950
+	0    -1   1    0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J4
 U 1 1 5BA37002
-P 4300 5950
-F 0 "J4" V 4400 5850 50  0000 L CNN
-F 1 "Motor4" V 4500 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 4300 5950 50  0001 C CNN
-F 3 "~" H 4300 5950 50  0001 C CNN
-	1    4300 5950
-	0    1    1    0   
+P 4200 5950
+F 0 "J4" V 4300 5850 50  0000 L CNN
+F 1 "Motor4" V 4400 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 4200 5950 50  0001 C CNN
+F 3 "~" H 4200 5950 50  0001 C CNN
+	1    4200 5950
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	3800 4850 3800 4950
@@ -312,24 +312,24 @@ DEnable
 $Comp
 L Connector:Conn_01x02_Female J5
 U 1 1 5BA382DE
-P 7150 5950
-F 0 "J5" V 7250 5850 50  0000 L CNN
-F 1 "Motor5" V 7350 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 7150 5950 50  0001 C CNN
-F 3 "~" H 7150 5950 50  0001 C CNN
-	1    7150 5950
-	0    1    1    0   
+P 7050 5950
+F 0 "J5" V 7150 5850 50  0000 L CNN
+F 1 "Motor5" V 7250 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 7050 5950 50  0001 C CNN
+F 3 "~" H 7050 5950 50  0001 C CNN
+	1    7050 5950
+	0    -1   1    0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J6
 U 1 1 5BA382E5
-P 6550 5950
-F 0 "J6" V 6650 5850 50  0000 L CNN
-F 1 "Motor6" V 6750 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 6550 5950 50  0001 C CNN
-F 3 "~" H 6550 5950 50  0001 C CNN
-	1    6550 5950
-	0    1    1    0   
+P 6450 5950
+F 0 "J6" V 6550 5850 50  0000 L CNN
+F 1 "Motor6" V 6650 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 6450 5950 50  0001 C CNN
+F 3 "~" H 6450 5950 50  0001 C CNN
+	1    6450 5950
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	6050 4850 6050 4950
@@ -425,24 +425,24 @@ DEnable
 $Comp
 L Connector:Conn_01x02_Female J7
 U 1 1 5BA3917F
-P 9450 5950
-F 0 "J7" V 9550 5850 50  0000 L CNN
-F 1 "Motor7" V 9650 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 9450 5950 50  0001 C CNN
-F 3 "~" H 9450 5950 50  0001 C CNN
-	1    9450 5950
-	0    1    1    0   
+P 9350 5950
+F 0 "J7" V 9450 5850 50  0000 L CNN
+F 1 "Motor7" V 9550 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 9350 5950 50  0001 C CNN
+F 3 "~" H 9350 5950 50  0001 C CNN
+	1    9350 5950
+	0    -1   1    0   
 $EndComp
 $Comp
 L Connector:Conn_01x02_Female J8
 U 1 1 5BA39186
-P 8850 5950
-F 0 "J8" V 8950 5850 50  0000 L CNN
-F 1 "Motor8" V 9050 5750 50  0000 L CNN
-F 2 "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal" H 8850 5950 50  0001 C CNN
-F 3 "~" H 8850 5950 50  0001 C CNN
-	1    8850 5950
-	0    1    1    0   
+P 8750 5950
+F 0 "J8" V 8850 5850 50  0000 L CNN
+F 1 "Motor8" V 8950 5750 50  0000 L CNN
+F 2 "SKaRCHa:KF301-2P-5" H 8750 5950 50  0001 C CNN
+F 3 "~" H 8750 5950 50  0001 C CNN
+	1    8750 5950
+	0    -1   1    0   
 $EndComp
 Wire Wire Line
 	8350 4850 8350 4950
@@ -502,37 +502,37 @@ Wire Wire Line
 	9350 5700 9350 5750
 Wire Wire Line
 	9450 5700 9450 5750
-Text GLabel 2550 4250 1    50   Input ~ 0
-IO04
-Text GLabel 1950 4250 1    50   Input ~ 0
-IO32
-Text GLabel 4800 4250 1    50   Input ~ 0
-IO27
 Text GLabel 4700 4250 1    50   Input ~ 0
+IO04
+Text GLabel 2050 4250 1    50   Input ~ 0
+IO32
+Text GLabel 2450 4250 1    50   Input ~ 0
+IO27
+Text GLabel 2550 4250 1    50   Input ~ 0
 IO25
 Text GLabel 4200 4250 1    50   Input ~ 0
 IO21
-Text GLabel 4300 4250 1    50   Input ~ 0
-IO22
-Text GLabel 8350 2200 2    50   Output ~ 0
-IO16_RX
-Text GLabel 8350 2100 2    50   Input ~ 0
-IO17_TX
-Text GLabel 9250 4250 1    50   Input ~ 0
-IO18
-Text GLabel 8750 4250 1    50   Input ~ 0
-IO26
-Text GLabel 6450 4250 1    50   Input ~ 0
-IO23
-Text GLabel 9350 4250 1    50   Input ~ 0
-IO19
-Text GLabel 2450 4250 1    50   Input ~ 0
-IO02
-Text GLabel 6550 4250 1    50   Input ~ 0
-IO05
 Text GLabel 6950 4250 1    50   Input ~ 0
+IO22
+Text GLabel 8600 1900 2    50   Output ~ 0
+IO16_RX
+Text GLabel 8300 1350 2    50   Input ~ 0
+IO17_TX
+Text GLabel 6550 4250 1    50   Input ~ 0
+IO18
+Text GLabel 7050 4250 1    50   Input ~ 0
+IO26
+Text GLabel 9250 4250 1    50   Input ~ 0
+IO23
+Text GLabel 6450 4250 1    50   Input ~ 0
+IO19
+Text GLabel 4800 4250 1    50   Input ~ 0
+IO02
+Text GLabel 9350 4250 1    50   Input ~ 0
+IO05
+Text GLabel 4300 4250 1    50   Input ~ 0
 IO15
-Text GLabel 8850 4250 1    50   Input ~ 0
+Text GLabel 8750 4250 1    50   Input ~ 0
 IO33
 Wire Wire Line
 	1950 4250 1950 4300
@@ -802,7 +802,7 @@ U 1 1 5BA93120
 P 5950 2550
 F 0 "J9" H 6850 3250 50  0000 L CNN
 F 1 "WEMOS_D1_MINI_ESP32" H 6500 3150 50  0000 L CNN
-F 2 "SKaRCHa:WEMOS_D1_MINI32" H 5550 3000 50  0001 C CNN
+F 2 "SKaRCHa:WEMOS_D1_MINI32_UP" H 5550 3000 50  0001 C CNN
 F 3 "" H 5550 3000 50  0001 C CNN
 	1    5950 2550
 	1    0    0    -1  
@@ -905,20 +905,64 @@ Connection ~ 8350 5050
 $Comp
 L Connector:Conn_01x02_Male J10
 U 1 1 5BAFDE51
-P 8150 2100
-F 0 "J10" H 8250 2350 50  0000 C CNN
-F 1 "AC serial" H 8250 2250 50  0000 C CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 8150 2100 50  0001 C CNN
-F 3 "~" H 8150 2100 50  0001 C CNN
-	1    8150 2100
+P 8100 1350
+F 0 "J10" H 8200 1600 50  0000 C CNN
+F 1 "AC serial" H 8200 1500 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" H 8100 1350 50  0001 C CNN
+F 3 "~" H 8100 1350 50  0001 C CNN
+	1    8100 1350
 	1    0    0    -1  
 $EndComp
 Text GLabel 5900 3250 3    50   Input ~ 0
 IO16_RX
 Text GLabel 6000 3250 3    50   Output ~ 0
 IO17_TX
-Text GLabel 2050 4250 1    50   Input ~ 0
+Text GLabel 1950 4250 1    50   Input ~ 0
 IO12
-Text GLabel 7050 4250 1    50   Input ~ 0
+Text GLabel 8850 4250 1    50   Input ~ 0
 IO14
+$Comp
+L Device:R R2
+U 1 1 5BC0A93F
+P 8400 1650
+F 0 "R2" H 8470 1696 50  0000 L CNN
+F 1 "4,7K" H 8470 1605 50  0000 L CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8330 1650 50  0001 C CNN
+F 3 "~" H 8400 1650 50  0001 C CNN
+	1    8400 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5BC0A9A7
+P 8400 2100
+F 0 "R3" H 8330 2054 50  0000 R CNN
+F 1 "10K" H 8330 2145 50  0000 R CNN
+F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" V 8330 2100 50  0001 C CNN
+F 3 "~" H 8400 2100 50  0001 C CNN
+	1    8400 2100
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	8400 1800 8400 1900
+Wire Wire Line
+	8400 1900 8600 1900
+Connection ~ 8400 1900
+Wire Wire Line
+	8400 1900 8400 1950
+$Comp
+L power:GND #PWR0107
+U 1 1 5BC1B462
+P 8400 2250
+F 0 "#PWR0107" H 8400 2000 50  0001 C CNN
+F 1 "GND" H 8405 2077 50  0000 C CNN
+F 2 "" H 8400 2250 50  0001 C CNN
+F 3 "" H 8400 2250 50  0001 C CNN
+	1    8400 2250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 1450 8400 1450
+Wire Wire Line
+	8400 1450 8400 1500
 $EndSCHEMATC
