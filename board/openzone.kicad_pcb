@@ -1,9 +1,9 @@
-(kicad_pcb (version 20171130) (host pcbnew 5.0.0-fee4fd1~66~ubuntu18.04.1)
+(kicad_pcb (version 20171130) (host pcbnew 5.0.1-33cea8e~68~ubuntu18.04.1)
 
   (general
     (thickness 1.6)
     (drawings 12)
-    (tracks 314)
+    (tracks 313)
     (zones 0)
     (modules 30)
     (nets 41)
@@ -58,6 +58,7 @@
     (pad_size 1.524 1.524)
     (pad_drill 0.762)
     (pad_to_mask_clearance 0.2)
+    (solder_mask_min_width 0.25)
     (aux_axis_origin 0 0)
     (visible_elements FFFFFF7F)
     (pcbplotparams
@@ -3089,7 +3090,6 @@
   (segment (start 191.849989 99.354023) (end 188.785965 96.289999) (width 0.3) (layer B.Cu) (net 27))
   (segment (start 191.849989 118.349989) (end 191.849989 99.354023) (width 0.3) (layer B.Cu) (net 27))
   (segment (start 193.75 120.25) (end 191.849989 118.349989) (width 0.3) (layer B.Cu) (net 27))
-  (segment (start 193.75 122.79) (end 192.058542 122.79) (width 0.3) (layer B.Cu) (net 28))
   (segment (start 192.900001 121.940001) (end 193.75 122.79) (width 0.3) (layer B.Cu) (net 28))
   (segment (start 186.735965 115.775965) (end 192.900001 121.940001) (width 0.3) (layer B.Cu) (net 28))
   (segment (start 186.735965 95.052499) (end 186.735965 115.775965) (width 0.3) (layer B.Cu) (net 28))
